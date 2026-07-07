@@ -8,10 +8,10 @@
 <h2 align="left">Tech I Work With</h2>
 
 <p align="left">
-  Backend: Laravel/PHP, Go, Rust, Elixir, Python, Node.js/Bun<br>
-  Frontend: React, Next.js, Vue/Nuxt, Svelte, Vite<br>
-  Data: PostgreSQL, MySQL, Redis<br>
-  Infrastructure: Docker, Kubernetes
+  <strong>Backend:</strong> Laravel/PHP, Go, Rust, Elixir, Python, Node.js/Bun<br>
+  <strong>Frontend:</strong> React, Next.js, Vue/Nuxt, Svelte, Vite<br>
+  <strong>Data:</strong> PostgreSQL, MySQL, Redis<br>
+  <strong>Infrastructure:</strong> Docker, Kubernetes
 </p>
 
 <div align="left">
